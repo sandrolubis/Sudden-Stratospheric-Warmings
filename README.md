@@ -8,5 +8,5 @@
 and is not included. 
 
 <p align="center">
-  <img src="https://github.com/sandrolubis/DMD_HDMD_Annular_Modes/blob/main/example/dmd_ref_new_crop.png" width="800">
+  <img src="https://github.com/sandrolubis/Sudden_Stratospheric_Warmings/blob/main/example/SSWs_Evolution.png" width="800">
 </p>
