@@ -1,3 +1,9 @@
+; Author: Dr. Sandro Lubis (Jan 2021)
+;         A simple NCL's code to calculate the central dates of the SSWs
+;         following Charlton and Polvani 2007.
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
 begin
 
 f     = addfile("data/U10_zm.nc", "r") ; input data
