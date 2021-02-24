@@ -1,4 +1,4 @@
-; Author: Dr. Sandro Lubis (Jan 2021)
+; Author: Dr. Sandro Lubis (Feb, 2021)
 ;         A simple NCL's code to calculate the central dates of the SSWs
 ;         following Charlton and Polvani 2007.
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
