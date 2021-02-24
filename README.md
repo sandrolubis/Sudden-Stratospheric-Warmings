@@ -10,3 +10,4 @@ and is not included.
 <p align="center">
   <img src="https://github.com/sandrolubis/Sudden_Stratospheric_Warmings/blob/main/example/SSWs_Evolution.png" width="800">
 </p>
+ ## Lubis et al., (2018)
