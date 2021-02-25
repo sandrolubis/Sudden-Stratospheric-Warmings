@@ -9,7 +9,7 @@
  3. If the winds do not return to westerly for at least 10 consecutive days before 30 April, the warming is a final warming
 and is not included. 
 
- FSWs Criteria:
+ SFWs Criteria:
  1. SFW events are identified as the final time that the zonal-mean zonal wind at 70°N (the core latitude of the stratospheric polar vortex) drops below zero without returning to a specified positive threshold value until the subsequent autumn. 
  2. We apply this criterion to running 5-day averages at 10 hPa (with thresholds of 10 m/s).
 
