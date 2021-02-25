@@ -11,7 +11,7 @@ and is not included.
 
  SFWs Criteria:
  1. SFW events are identified as the final time that the zonal-mean zonal wind at 70°N (the core latitude of the stratospheric polar vortex) drops below zero without returning to a specified positive threshold value until the subsequent autumn. 
- 2. We apply this criterion to running 5-day averages at 10 hPa (with thresholds of 10 m/s).
+ 2. We apply this criterion to running 5-day averages at 10 hPa (with a threshold of 10 m/s).
 
 <p align="center">
   <img src="https://github.com/sandrolubis/Sudden_Stratospheric_Warmings/blob/main/example/SSWs_Evolution.png" width="800">
