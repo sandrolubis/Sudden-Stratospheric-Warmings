@@ -1,6 +1,6 @@
 # Sudden Stratospheric Warmings
 
- A simple NCL's code to calculate the central dates of the SSWs following Charlton and Polvani (2007) and final stratospheric warming (FSW) following Black et al., (2002)
+ A simple NCL's code to calculate the central dates of the SSWs following Charlton and Polvani (2007) and stratospheric final warming (SFW) following Black et al., (2002)
  
  SSWs Criteria:
  
