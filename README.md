@@ -17,4 +17,4 @@ and is not included.
   <img src="https://github.com/sandrolubis/Sudden_Stratospheric_Warmings/blob/main/example/SSWs_Evolution.png" width="800">
 </p>
 
-### Lubis, S.W., C.S. Huang, and N. Nakamura, 2018: Role of Finite-Amplitude Eddies and Mixing in the Life Cycle of Stratospheric Sudden Warmings. J. Atmos. Sci., 75,3987–4003, https://doi.org/10.1175/JAS-D-18-0138.1
+## Lubis, S.W., C.S. Huang, and N. Nakamura, 2018: Role of Finite-Amplitude Eddies and Mixing in the Life Cycle of Stratospheric Sudden Warmings. J. Atmos. Sci., 75,3987–4003, https://doi.org/10.1175/JAS-D-18-0138.1
