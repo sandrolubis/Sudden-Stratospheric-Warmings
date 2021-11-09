@@ -1,6 +1,7 @@
 ; Author: Dr. Sandro Lubis (Feb, 2021)
 ;         A simple NCL's code to calculate the central dates of the FSWs
 ;         following Black et al., (2002).
+;Contact: slubis.geomar@gmail.com
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 begin
