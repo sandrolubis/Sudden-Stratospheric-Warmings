@@ -9,13 +9,13 @@
  3. If the winds do not return to westerly for at least 10 consecutive days before 30 April, the warming is a final warming
 and is not included. 
 
+<p align="center">
+  <img src="https://github.com/sandrolubis/Sudden-Stratospheric-Warmings/blob/main/example/lag_composite_ssw_uz_50N-70N_stipple.png" width="500">
+</p>
+
  SFWs Criteria:
  1. SFW events are identified as the final time that the zonal-mean zonal wind at 70°N (the core latitude of the stratospheric polar vortex) drops below zero without returning to a specified positive threshold value until the subsequent autumn. 
  2. We apply this criterion to running 5-day averages at 10 hPa (with a threshold of 10 m/s).
-
-<p align="center">
-  <img src="https://github.com/sandrolubis/Sudden-Stratospheric-Warmings/blob/main/example/lag_composite_ssw_uz_50N-70N_stipple.png" width="800">
-</p>
 
 <p align="center">
   <img src="https://github.com/sandrolubis/Sudden_Stratospheric_Warmings/blob/main/example/SSWs_Evolution.png" width="800">
