@@ -10,7 +10,7 @@
 and is not included. 
 
 <p align="center">
-  <img src="https://github.com/sandrolubis/Sudden-Stratospheric-Warmings/blob/main/example/lag_composite_ssw_uz_50N-70N_stipple.png" width="500">
+  <img src="https://github.com/sandrolubis/Sudden-Stratospheric-Warmings/blob/main/example/lag_composite_ssw_uz_50N-70N_stipple.png" width="450">
 </p>
 
  SFWs Criteria:
