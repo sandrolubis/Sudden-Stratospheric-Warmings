@@ -14,6 +14,10 @@ and is not included.
  2. We apply this criterion to running 5-day averages at 10 hPa (with a threshold of 10 m/s).
 
 <p align="center">
+  <img src="https://github.com/sandrolubis/Sudden-Stratospheric-Warmings/blob/main/example/lag_composite_ssw_uz_50N-70N_stipple.png" width="800">
+</p>
+
+<p align="center">
   <img src="https://github.com/sandrolubis/Sudden_Stratospheric_Warmings/blob/main/example/SSWs_Evolution.png" width="800">
 </p>
 
