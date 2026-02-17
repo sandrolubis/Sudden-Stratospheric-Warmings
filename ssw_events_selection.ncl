@@ -1,7 +1,9 @@
 ; Author: Dr. Sandro Lubis (Feb, 2021)
-;         A simple NCL's code to calculate the central dates of the SSWs
+;         A simple NCL's code to calculate the central dates of the sudden stratospheric warmings (SSWs)
 ;         following Charlton and Polvani (2007).
 ;Contact: slubis.geomar@gmail.com
+;Lubis, S. W., C. S. Y. Huang, and N. Nakamura, 2018: Role of Finite-Amplitude Eddies and Mixing in the Life Cycle of Stratospheric Sudden Warmings. 
+; J. Atmos. Sci., 75, 3987–4003, https://doi.org/10.1175/JAS-D-18-0138.1.
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 
