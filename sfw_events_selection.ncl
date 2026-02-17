@@ -1,5 +1,5 @@
 ; Author: Dr. Sandro Lubis (Feb, 2021)
-;         A simple NCL's code to calculate the central dates of the FSWs
+;         A simple NCL's code to calculate the central dates of the Stratospheric Final Warmings (SFWs)
 ;         following Black et al., (2002).
 ;Contact: slubis.geomar@gmail.com
 ;Lubis, S. W., C. S. Y. Huang, and N. Nakamura, 2018: Role of Finite-Amplitude Eddies and Mixing in the Life Cycle of Stratospheric Sudden Warmings. 
