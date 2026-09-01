@@ -59,13 +59,13 @@ The repository also includes an example script for calculating lag composites of
 lag_composite_ssw_uz_50N-70N_stipple.ncl
 ```
 
-The composite spans approximately **40 days before to 40 days after** the SSW central date.
+The composite spans approximately **40 days before to 40 days after** the SSW central date (Lubis et al., 2018a).
 
 <p align="center">
   <img src="example/lag_composite_ssw_uz_50N-70N_stipple.png" width="550">
 </p>
 
-An additional example of the SSW evolution is shown below.
+An additional example of the SSW evolution is shown below (Lubis et al., 2018b).
 
 <p align="center">
   <img src="example/SSWs_Evolution.png" width="750">
@@ -117,12 +117,12 @@ Journal of the Atmospheric Sciences, **64**, 2932–2946.
 
 If you use these scripts, please also consider citing:
 
-**Lubis, S. W., C. S. Y. Huang, and N. Nakamura (2018):**
+**Lubis, S. W., C. S. Y. Huang, and N. Nakamura (2018b):**
 *Role of Finite-Amplitude Eddies and Mixing in the Life Cycle of Stratospheric Sudden Warmings.*
 Journal of the Atmospheric Sciences, **75**, 3987–4003.
 https://doi.org/10.1175/JAS-D-18-0138.1
 
-**Lubis, S. W., C. S. Y. Huang, N. Nakamura, N.-E. Omrani, and M. Jucker (2018):**
+**Lubis, S. W., C. S. Y. Huang, N. Nakamura, N.-E. Omrani, and M. Jucker (2018a):**
 *Role of Finite-Amplitude Rossby Waves and Nonconservative Processes in Downward Migration of Extratropical Flow Anomalies.*
 Journal of the Atmospheric Sciences, **75**, 1385–1401.
 https://doi.org/10.1175/JAS-D-17-0376.1
