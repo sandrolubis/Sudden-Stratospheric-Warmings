@@ -7,6 +7,22 @@ This repository provides simple **NCL scripts for identifying major sudden strat
 
 The SSW definition follows **Charlton and Polvani (2007)**.
 
+## Citation
+
+If you use these scripts, please also consider citing:
+
+**Lubis, S. W., C. S. Y. Huang, and N. Nakamura (2018b):**
+*Role of Finite-Amplitude Eddies and Mixing in the Life Cycle of Stratospheric Sudden Warmings.*
+Journal of the Atmospheric Sciences, **75**, 3987–4003.
+https://doi.org/10.1175/JAS-D-18-0138.1
+
+**Lubis, S. W., C. S. Y. Huang, N. Nakamura, N.-E. Omrani, and M. Jucker (2018a):**
+*Role of Finite-Amplitude Rossby Waves and Nonconservative Processes in Downward Migration of Extratropical Flow Anomalies.*
+Journal of the Atmospheric Sciences, **75**, 1385–1401.
+https://doi.org/10.1175/JAS-D-17-0376.1
+
+---
+
 ---
 
 ## Major Sudden Stratospheric Warmings
@@ -112,25 +128,3 @@ For the SFW framework:
 Journal of the Atmospheric Sciences, **64**, 2932–2946.
 
 ---
-
-## Citation
-
-If you use these scripts, please also consider citing:
-
-**Lubis, S. W., C. S. Y. Huang, and N. Nakamura (2018b):**
-*Role of Finite-Amplitude Eddies and Mixing in the Life Cycle of Stratospheric Sudden Warmings.*
-Journal of the Atmospheric Sciences, **75**, 3987–4003.
-https://doi.org/10.1175/JAS-D-18-0138.1
-
-**Lubis, S. W., C. S. Y. Huang, N. Nakamura, N.-E. Omrani, and M. Jucker (2018a):**
-*Role of Finite-Amplitude Rossby Waves and Nonconservative Processes in Downward Migration of Extratropical Flow Anomalies.*
-Journal of the Atmospheric Sciences, **75**, 1385–1401.
-https://doi.org/10.1175/JAS-D-17-0376.1
-
----
-
-## Contact
-
-**Sandro W. Lubis, Ph.D.**
-Pacific Northwest National Laboratory (PNNL)
-[sandro.lubis@pnnl.gov](mailto:sandro.lubis@pnnl.gov)
