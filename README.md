@@ -22,6 +22,17 @@ Journal of the Atmospheric Sciences, **75**, 1385–1401.
 https://doi.org/10.1175/JAS-D-17-0376.1
 
 ---
+The composite spans approximately **40 days before to 40 days after** the SSW central date (Lubis et al., 2018a).
+
+<p align="center">
+  <img src="example/lag_composite_ssw_uz_50N-70N_stipple.png" width="550">
+</p>
+
+An additional example of the SSW evolution is shown below (Lubis et al., 2018b).
+
+<p align="center">
+  <img src="example/SSWs_Evolution.png" width="750">
+</p>
 
 ---
 
@@ -74,18 +85,6 @@ The repository also includes an example script for calculating lag composites of
 ```text
 lag_composite_ssw_uz_50N-70N_stipple.ncl
 ```
-
-The composite spans approximately **40 days before to 40 days after** the SSW central date (Lubis et al., 2018a).
-
-<p align="center">
-  <img src="example/lag_composite_ssw_uz_50N-70N_stipple.png" width="550">
-</p>
-
-An additional example of the SSW evolution is shown below (Lubis et al., 2018b).
-
-<p align="center">
-  <img src="example/SSWs_Evolution.png" width="750">
-</p>
 
 ---
 
