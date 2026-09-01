@@ -5,8 +5,6 @@ Pacific Northwest National Laboratory (PNNL)
 
 This repository provides simple **NCL scripts for identifying major sudden stratospheric warming (SSW) and stratospheric final warming (SFW) events**, together with an example lag-composite analysis of the stratospheric circulation.
 
-The SSW definition follows **Charlton and Polvani (2007)**.
-
 ## Citation
 
 If you use these scripts, please also consider citing:
@@ -22,7 +20,7 @@ Journal of the Atmospheric Sciences, **75**, 1385–1401.
 https://doi.org/10.1175/JAS-D-17-0376.1
 
 ---
-The composite spans approximately **40 days before to 40 days after** the SSW central date (Lubis et al., 2018a).
+The SSW definition follows **Charlton and Polvani (2007)**. The composite spans approximately **40 days before to 40 days after** the SSW central date (Lubis et al., 2018a).
 
 <p align="center">
   <img src="example/lag_composite_ssw_uz_50N-70N_stipple.png" width="550">
